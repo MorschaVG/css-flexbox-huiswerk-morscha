@@ -1,0 +1,86 @@
+.navbar-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.nav-list1 {
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: space-between;
+}
+.nav-list2 {
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: right;
+}
+.navbar-three {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.nav-list3 {
+    display: flex;
+    list-style: none;
+}
+.nav-list3-left-box {
+    display: flex;
+   justify-content: left;
+    align-items: center;
+    gap: 10px;
+}
+.navbar-four {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px 20px;
+}
+.nav-list4 {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+    wrap: wrap;
+    gap: 20px;
+}
+.nav-list4-left-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-grow: 1;
+}
+.nav-list4-btn {
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    align-items: baseline;
+    gap: 15px;
+    flex-grow: 8;
+}
+.navbar-five {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px 20px;
+}
+.nav-list5 {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+.nav-list5-left-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav-list5-btn {
+    display: flex;
+    list-style: none;
+    align-items: baseline;
+    gap: 15px;
+}
